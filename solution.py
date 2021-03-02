@@ -3,8 +3,8 @@ from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import ElementClickInterceptedException, NoSuchElementException
 from time import sleep
 
-FB_EMAIL = "cinnamonsnap@msn.com"
-FB_PASSWORD = "1H4t3Th1sS1t3"
+FB_EMAIL = ...
+FB_PASSWORD = ...
 
 chrome_driver_path = "/Users/abigailnottingham/Development/chromedriver"
 driver = webdriver.Chrome(executable_path=chrome_driver_path)
